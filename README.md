@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkshankTyagi
-- 👀 I’m interested in AstroPhysics, High Energy phenomenon and Particle physics.
+- 👀 I’m interested in AstroPhysics, Cosmology, High Energy phenomenon and AstroParticle physics.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, mail- akshanktyagi@iisc.ac.in
